@@ -9,8 +9,7 @@ Research, documentation, and experimental projects for the Monolythium ecosystem
 |------|-------------|
 | [docs-monolythium](https://github.com/mono-labs-org/docs-monolythium) | Official documentation site |
 | [docs-internal](https://github.com/mono-labs-org/docs-internal) | Internal technical documentation |
-| [whitepaper](https://github.com/mono-labs-org/whitepaper) | Monolythium whitepaper |
-| [media](https://github.com/mono-labs-org/media) | Brand assets and media kit |
+| [whitepaper](https://github.com/mono-labs-org/whitepaper) | Monolythium whitepaper (archived) |
 
 ### Projects
 | Repo | Description |
